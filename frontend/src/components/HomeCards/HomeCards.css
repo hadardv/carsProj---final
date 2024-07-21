@@ -1,0 +1,15 @@
+.container-cards{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 16px; /* Space between cards */
+  padding: 16px; /* Padding around the container */
+  padding-left: 200px;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.header-text {
+  text-align: center;
+}
+

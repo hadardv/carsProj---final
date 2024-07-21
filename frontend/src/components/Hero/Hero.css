@@ -1,0 +1,23 @@
+
+.overlay-text {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.header-img {
+  position: relative;
+  text-align: center;
+  color: white;
+  opacity: 90%;
+}
+
+.responsive-image {
+  width: 100%;
+  height: auto;
+  max-height: 500px; /* Adjust the max-height as needed */
+  object-fit: cover; /* Ensure the image covers the container without stretching */
+}

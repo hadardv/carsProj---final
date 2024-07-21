@@ -1,0 +1,41 @@
+.upper-line {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 45vh; 
+  
+}
+
+.upper-line h1 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.second-line {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+}
+
+.second-line h1 {
+  font-size: 35px;
+  margin: 0;
+}
+
+.bottom-line {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.bottom-line h1 {
+  font-size: 35px;
+  margin: 0;
+}

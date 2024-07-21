@@ -1,0 +1,22 @@
+.input-option {
+  margin-right: 20px; /* Space between inputs */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.input-option label {
+  margin-bottom: 5px;
+}
+
+.input-option input {
+  min-width: 180px; /* Ensures all inputs have the same width */
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.input-option div { /* Error message styling */
+  color: red;
+  font-size: 12px;
+}
