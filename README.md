@@ -1,4 +1,4 @@
-# Electric Vehicle Sales Dashboard
+# Electric Vehicle 
 
 ## Overview
 The Electric Vehicle Sales Dashboard is a web application that provides insights into electric vehicle sales data. The application displays various charts, including a pie chart showing the market share of different automakers and a bar chart displaying quarterly sales data. The application uses a PostgreSQL database to store and retrieve data.
